@@ -1,0 +1,13 @@
+altair==4.2.0
+bz2file==0.98
+lasio==0.30
+matplotlib==3.4.3
+numpy==1.21.6
+pandas==1.4.3
+seaborn==0.11.2
+streamlit==1.13.0
+streamlit_vega_lite==0.1.0
+streamlit-nested-layout==0.1.1
+lightgbm==3.3.2
+plotly==5.10.0
+scikit-learn==1.1.2
